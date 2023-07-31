@@ -128,7 +128,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>springbootApp</finalName>
+	  <!--	<finalName>springbootApp</finalName>  -->
 	</build>
 
 </project>
